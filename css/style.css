@@ -12,6 +12,9 @@ p{
     font-weight: 300;
     font-size: 16px;
 }
+.header-bike{
+    width: 75%;
+}
 .btn-btn-bg{
     width: 168px;
     height: 44px;
@@ -28,9 +31,9 @@ small p{
     color: #E76F51;
 }
 .hunda-img{
-    height: 243px;
     width: 288px;
-    padding: 10px;
+    height: 243px;
+    padding: 20px;
 
 }
 .hunda-grayscale{
